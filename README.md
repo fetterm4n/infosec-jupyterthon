@@ -6,3 +6,11 @@
 <img src="https://infosecjupyterthon.com/_static/logo.png" width='150' align='right'></img>
 
 #### Dr. Ryan Fetterman (X: <a href="https://twitter.com/iknowuhack?lang=en">@iknowuhack</a>)
+
+
+##### threat_hunting_in_three_dimensions.html
+Presentation from Infosec Jupyterthon 2024. Open in your browser, mind the arrows in the bottom right of the screen to follow along with all the content.
+
+##### automated_embedding.py
+Use this script to embed all local content into a single html file after using the Jupyter nbconvert utility!:
+`python automated_embedding.py your_file.html`
